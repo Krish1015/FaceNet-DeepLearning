@@ -10,6 +10,7 @@
         5) Also learn many models of face recognisation.
         6) Use of tensorflow, keras.
         7) Use of layers - GlobalAveragePooling2D, Flatten.
+        8) Triplet Loss.
 # Research paper studied :
         1) Deep Residual Learning for Image Recognition (ResNet)
         2) Inception Net (Going deeper with convolutions)
